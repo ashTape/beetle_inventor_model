@@ -1,0 +1,20 @@
+# lck : Autodesk-Inventor blocks file access from other applications
+*.lck
+
+# Autodesk-Inventor backup files
+*.old
+*OldVersions/
+*.bak
+
+# Project information files automativcally generated from Autodesk-Inventor
+*.ipj
+*.log
+*Design Data/
+*.tmp
+*Templates/
+
+# Export Files form Inventor Files
+*.igs
+*.stl
+*.dxf
+*.step
